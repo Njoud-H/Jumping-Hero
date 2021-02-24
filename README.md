@@ -7,16 +7,26 @@ In the begging, this LCD screen will display a "Press to Start" message, in whic
 
 ## Hardware Components Used:
 •	1 x Arduino UNO                   
-•	1 x LCD screen (16 x 2 character)  
-•	1 x   Electronics breadboard 
-•	1 x 220 Ω resistor 
-•	1 x Pushbutton Switch  
-•	Solid-core hookup wire 
-•	1 x USB cable  
+•	1 x LCD screen (16 x 2 character)    
+•	1 x Electronics breadboard   
+•	1 x 220 Ω resistor   
+•	1 x Pushbutton Switch    
+•	Solid-core hookup wire   
+•	1 x USB cable    
 
-## 6.	Discussion:
-**_Game Advantages_**: 
-1- Low cost and simple requirements.
-2- Uncomplicated and it can be used for other games.
-3- Anyone can use and create it, even the children.
-4- It can be created anywhere and anytime.
+## Circuit Diagram:
+![Screenshot from 2016-10-19 01-08-36](https://media.git.generalassemb.ly/user/32588/files/c4fba280-76d1-11eb-8121-38f966937405)
+
+## Snapshot of The Designed Circuit:
+![IMG_0258](https://media.git.generalassemb.ly/user/32588/files/95e53100-76d1-11eb-9c75-7e2795e39719)
+
+## Discussion:
+**_Game Advantages_**:   
+• Low cost and simple requirements.  
+• Uncomplicated and it can be used for other games.  
+• Anyone can use and create it, even the children.  
+• It can be created anywhere and anytime.  
+
+
+
+
